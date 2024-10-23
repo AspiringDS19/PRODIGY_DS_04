@@ -1,0 +1,1 @@
+In this project I have created various graphs on the twitter-training dataset. Graphs involve apps/games as well as sentiment analysis. Main libraries used are wordcloud, pandas, numpy and matplotlib.
